@@ -1,11 +1,11 @@
 # component-templates
-##Porject setup:
+## Porject setup:
 1. npm i
 2. "npm run dev" to run project
 3. "npm run build" to build for production
 
 
-##To create project with vite and react:
+## To create project with vite and react:
 1. npm create vite@latest projectName --template react (with react) / npm create vite@latest my-vite-app / yarn create vite@latest my-vite-app
 2. cd projectName
 3. npm i
