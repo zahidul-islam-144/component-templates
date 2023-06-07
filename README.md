@@ -22,3 +22,6 @@ export default defineConfig({
 
 7. VITE_API_KEY=123456789 to set environment variables
 8. import.meta.env.VITE_API_KEY to access environment variables
+
+
+[1] Refference: https://www.traversymedia.com/blog/vite-crash-course
